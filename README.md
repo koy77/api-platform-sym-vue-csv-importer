@@ -1,1 +1,1 @@
-cd symfiny-app && ./start.sh
+cd symfony-app && ./start.sh
